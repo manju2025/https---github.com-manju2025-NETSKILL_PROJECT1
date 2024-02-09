@@ -360,7 +360,7 @@ a {
   z-index: 1;
 }
 .name {
-  width: 54px;
+  width: 80px;
   border: 0;
   outline: 0;
   font-family:  Jost;
@@ -396,7 +396,7 @@ a {
   z-index: 1;
 }
 .subject {
-  width: 69px;
+  width: 80px;
   border: 0;
   outline: 0;
   font-family: Jost;
@@ -455,7 +455,7 @@ a {
   z-index: 1;
 }
 .email {
-  width: 48px;
+  width: 80px;
   border: 0;
   outline: 0;
   font-family:  Jost;
@@ -491,7 +491,7 @@ a {
   z-index: 1;
 }
 .phone1 {
-  width: 56px;
+  width: 80px;
   border: 0;
   outline: 0;
   font-family:  Jost;
